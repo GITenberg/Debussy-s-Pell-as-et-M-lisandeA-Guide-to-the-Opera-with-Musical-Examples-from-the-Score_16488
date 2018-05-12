@@ -1,0 +1,31 @@
+_repo: Debussy-s-Pell-as-et-M-lisandeA-Guide-to-the-Opera-with-Musical-Examples-from-the-Score_16488
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilman, Lawrence
+    birthdate: 1878
+    deathdate: 1939
+    gutenberg_agent_id: '5371'
+    url: http://www.gutenberg.org/2009/agents/5371
+    wikipedia: http://en.wikipedia.org/wiki/Lawrence_Gilman
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opera'
+- !lcc 'MT'
+- !lcsh 'Debussy, Claude, 1862-1918. Pelléas et Mélisande'
+title: 'Debussy''s Pelléas et Mélisande
+
+  A Guide to the Opera with Musical Examples from the Score'
+url: http://www.gutenberg.org/ebooks/16488
