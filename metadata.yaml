@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5371
     wikipedia: http://en.wikipedia.org/wiki/Lawrence_Gilman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16488#Debussy-s-Pell-as-et-M-lisandeA-Guide-to-the-Opera-with-Musical-Examples-from-the-Score
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2005-08-08'
 gutenberg_type: Text
